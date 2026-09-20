@@ -18,9 +18,8 @@ This web application connects to NASA's Astronomy Picture of the Day API, allowi
 
 - HTML5
 - CSS3
-- Vanilla JavaScript
+- JavaScript
 - NASA APOD API
-- Normalize.css
 
 ## 🚀 Live Demo
 
