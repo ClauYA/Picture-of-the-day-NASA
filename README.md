@@ -21,6 +21,6 @@ This web application connects to NASA's Astronomy Picture of the Day API, allowi
 - JavaScript
 - NASA APOD API
 
-## 🚀 Live Demo
+## Live Demo
 
 [View Live Site](https://clauya.github.io/Picture-of-the-day-NASA/)
