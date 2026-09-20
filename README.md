@@ -23,4 +23,4 @@ This web application connects to NASA's Astronomy Picture of the Day API, allowi
 
 ## 🚀 Live Demo
 
-[View Live Site](https://clauya.github.io/nasa-picture-of-the-day/)
+[View Live Site](https://clauya.github.io/Picture-of-the-day-NASA/)
